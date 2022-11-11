@@ -7,13 +7,13 @@ WOKWI SIMULATOR LINK : https://wokwi.com/projects/347212137885598290
 WEB UI LINK : https://node-red-dashboard059.eu-gb.mybluemix.net/fire
 
 
+Results:
+
+
 ![Screenshot from 2022-11-11 22-49-24](https://user-images.githubusercontent.com/71424761/201395405-5e9a4687-c9cb-444c-b1cc-32b511d397f1.png)
 
 
 ![Screenshot from 2022-11-03 15-20-26](https://user-images.githubusercontent.com/71424761/201396941-8adefb4c-16a7-4c96-889f-43e7bd4e8523.png)
-
-
-Results:
 
 
 TRANSFERRING DATA FROM IBM WATSON INTO NODE-RED:
