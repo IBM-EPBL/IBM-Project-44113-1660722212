@@ -37,5 +37,19 @@ TRANSFERRING DATA FROM NODE-RED INTO WEB UI:
 WEB UI:
 
 
+DESKTOP VIEW
+
+
 ![Screenshot from 2022-11-11 22-53-02](https://user-images.githubusercontent.com/71424761/201395630-e2bb620e-3a51-437a-a185-5c1e72f3f3bd.png)
+
+
+MOBILE VIEW
+
+
+![Screenshot_2022-11-11-20-30-30-430_com android chrome](https://user-images.githubusercontent.com/71424761/201489343-41c9c173-c5d2-4d05-8b45-365aee8f4e40.jpg)
+
+
+CLOUDANT:
+
+
 
