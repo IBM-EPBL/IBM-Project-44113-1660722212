@@ -31,7 +31,7 @@ NODE-RED DASHBOARD:
 TRANSFERRING DATA FROM NODE-RED INTO WEB UI:
 
 
-![Screenshot from 2022-11-11 22-50-25](https://user-images.githubusercontent.com/71424761/201395433-37370fc9-5d0c-4e2c-9700-ce275160f4f8.png)
+![Screenshot from 2022-11-12 23-51-06](https://user-images.githubusercontent.com/71424761/201489470-6e8e8016-8649-44a6-a741-e8ab096b1468.png)
 
 
 WEB UI:
@@ -52,4 +52,8 @@ MOBILE VIEW
 CLOUDANT:
 
 
+![Screenshot from 2022-11-13 00-03-34](https://user-images.githubusercontent.com/71424761/201489558-cf5f6f4e-f2e5-4fd4-a894-f7826b955a41.png)
+
+
+![Screenshot from 2022-11-12 23-53-38](https://user-images.githubusercontent.com/71424761/201489571-55c00678-8835-4cc0-85bd-d083df62b104.png)
 
