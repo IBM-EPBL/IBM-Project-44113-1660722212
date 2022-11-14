@@ -28,7 +28,7 @@ NODE-RED DASHBOARD:
 ![Screenshot from 2022-11-11 21-59-29](https://user-images.githubusercontent.com/71424761/201393150-3448b268-afc6-4fda-999a-a8cfc5c18831.png)
 
 
-TRANSFERRING DATA FROM NODE-RED INTO WEB UI:
+TRANSFERRING DATA FROM NODE-RED INTO WEB PAGE USING WEB SOCKET:
 
 
 ![Screenshot from 2022-11-12 23-51-06](https://user-images.githubusercontent.com/71424761/201489470-6e8e8016-8649-44a6-a741-e8ab096b1468.png)
