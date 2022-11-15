@@ -4,7 +4,7 @@ Check the Project:
 
 WOKWI SIMULATOR LINK : https://wokwi.com/projects/347212137885598290
 
-WEB UI LINK : https://node-red-dashboard059.eu-gb.mybluemix.net/fire
+WEB PAGE LINK : https://node-red-dashboard059.eu-gb.mybluemix.net/fire
 
 
 Results:
