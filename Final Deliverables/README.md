@@ -1,4 +1,4 @@
-                                                        SPRINT 4
+                                                        Final Deliverables
 
 Check the Project:
 
