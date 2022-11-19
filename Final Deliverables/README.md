@@ -2,6 +2,8 @@
 
 Check the Project:
 
+PROJECT VIDEO LINK : https://youtu.be/nAaq8L7xb8w
+
 WOKWI SIMULATOR LINK : https://wokwi.com/projects/347212137885598290
 
 NODE-RED DASHBOARD UI LINK : https://node-red-dashboard059.eu-gb.mybluemix.net/ui/#!/0?socketid=Dsj_6KQ1Dt6bk-4LAAAW
