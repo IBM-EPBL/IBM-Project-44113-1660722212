@@ -9,7 +9,7 @@
  
  
  
- Important Links : 
+                                                Important Links : 
  
  
  PROJECT VIDEO LINK : https://youtu.be/nAaq8L7xb8w
@@ -26,7 +26,7 @@ ________________________________________________________________________________
 
 
 
-OUR INFORMATION : 
+                                                 OUR INFORMATION : 
 
 Project Title :	INDUSTRY-SPECIFIC INTELLIGENT FIRE MANAGMENT SYSTEM
 
@@ -45,7 +45,7 @@ ________________________________________________________________________________
 
 
 
-TEAM MEMBERS : 
+                                                 TEAM MEMBERS : 
 
 1. MANIKANDAN B
 
